@@ -11,3 +11,4 @@ embed = DiscordEmbed(title="IP: " + ip_address + " | Host :" + host_name, color 
 webhook.add_embed(embed)
 response = webhook.execute()
 
+
